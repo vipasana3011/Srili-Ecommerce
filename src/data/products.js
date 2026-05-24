@@ -1,73 +1,93 @@
 const products = [
   {
     id: 1,
-    name: "Pink Floral Kurti",
+    name: "Mustard Bloom Halter Top",
     price: "₹899",
     category: "Floral",
-    image: "/src/assets/products/k1.jpg"
+    image: "/products/k1.jpg",
+    description:
+      "Bright mustard floral halter top featuring an asymmetrical hem and a chic matching neck tie-up. Perfect for a breezy, ethnic-fusion look."
   },
   {
     id: 2,
-    name: "Beige Elegant Kurti",
+    name: "Earthy Aztec Halter Top",
     price: "₹999",
-    category: "Beige",
-    image: "/src/assets/products/k2.jpg"
+    category: "Boho",
+    image: "/products/k2.jpg",
+    description:
+      "Bohemian-inspired geometric print halter top detailed with subtle bead and mirror accents along the neckline."
   },
   {
     id: 3,
-    name: "Soft Pink Kurti",
+    name: "Olive Gleam Mirror-Work Camisole",
     price: "₹799",
-    category: "Pink",
-    image: "/src/assets/products/k3.jpg"
+    category: "Ethnic",
+    image: "/products/k3.jpg",
+    description:
+      "Rich olive green strappy top elevated with intricate mirror-work on neckline and borders."
   },
   {
     id: 4,
-    name: "Floral Summer Kurti",
+    name: "Tropical Flora Asymmetric Top",
     price: "₹1099",
     category: "Floral",
-    image: "/src/assets/products/k4.jpg"
+    image: "/products/k4.jpg",
+    description:
+      "Vibrant floral motifs on a cream base with stylish asymmetrical hem and wide straps."
   },
   {
     id: 5,
-    name: "Classic Beige Kurti",
-    price: "₹899",
-    category: "Beige",
-    image: "/src/assets/products/k5.jpg"
+    name: "Azure Pearl-Drape Tunic",
+    price: "₹1199",
+    category: "Elegant",
+    image: "/products/k5.jpg",
+    description:
+      "Elegant light blue tunic with silver embroidery and pearl-draped shoulders for a luxury look."
   },
   {
     id: 6,
-    name: "Pink Party Kurti",
-    price: "₹1299",
-    category: "Pink",
-    image: "/src/assets/products/k6.jpg"
+    name: "Crimson Bandhani Sweetheart Mini",
+    price: "₹999",
+    category: "Traditional",
+    image: "/products/k6.jpg",
+    description:
+      "Deep red bandhani-style print with sequin detailing and a flattering sweetheart neckline."
   },
   {
     id: 7,
-    name: "Minimal Floral Kurti",
-    price: "₹799",
-    category: "Floral",
-    image: "/src/assets/products/k7.jpg"
+    name: "Boho Rhapsody Embellished Top",
+    price: "₹1099",
+    category: "Boho",
+    image: "/products/k7.jpg",
+    description:
+      "Sheer bohemian top with bell sleeves and heavy beadwork on neckline."
   },
   {
     id: 8,
-    name: "Soft Beige Kurti",
-    price: "₹999",
-    category: "Beige",
-    image: "/src/assets/products/k8.jpg"
+    name: "Vintage Maroon Mesh Top",
+    price: "₹899",
+    category: "Vintage",
+    image: "/products/k8.jpg",
+    description:
+      "90s-inspired maroon mesh top with subtle sequins and lace detailing."
   },
   {
     id: 9,
-    name: "Pink Casual Kurti",
-    price: "₹699",
-    category: "Pink",
-    image: "/src/assets/products/k9.jpg"
+    name: "Teal Velvet-Bow Handkerchief Cami",
+    price: "₹999",
+    category: "Y2K",
+    image: "/products/k9.jpg",
+    description:
+      "Teal camisole with velvet bow and handkerchief hem in Y2K aesthetic."
   },
   {
     id: 10,
-    name: "Designer Floral Kurti",
-    price: "₹1499",
-    category: "Floral",
-    image: "/src/assets/products/k10.jpg"
+    name: "Icy Blue Sequin Ruffle Halter",
+    price: "₹1299",
+    category: "Party",
+    image: "/products/k10.jpg",
+    description:
+      "Light blue halter top with heavy sequin work and ruffled asymmetrical hem."
   }
 ];
 
